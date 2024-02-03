@@ -1,0 +1,8 @@
+# ignore directories
+bin/
+obj/
+.vs/
+.idea/
+
+# ignore files
+temporary.txt
